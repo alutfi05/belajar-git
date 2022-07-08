@@ -1,1 +1,3 @@
 Nama Ahmad Lutfi Rizki Patria
+Belajar command git dasar
+ada 3 command penting, yaitu git add, git commit -m, dan git push 
